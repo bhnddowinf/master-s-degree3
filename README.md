@@ -61,3 +61,11 @@ Deadline: September 16, 2020
 - 12/28-12/31：Ch15，同步七(ch13~ch15)，測試文件繳交(12/31) 
 - 01/09：期末考+專案簡報及展示，面授三，專案成果發表 
 
+# 04. 學務時程
+
+- 加、退選日期：109年9月7日至109年9月21日止
+- 系統開放時間：109年9月7日上午8時30分 至109年9月21日　晚上10時
+- https://kiki.ccu.edu.tw/~ccmisp07/cgi-bin/class_new/announce.php?announce_id=20200904&e=0
+- https://kiki.ccu.edu.tw/~ccmisp07/cgi-bin/class_new/index.php
+  
+  
