@@ -1,10 +1,5 @@
 # 前言
 
-二年上學期了，房價漲的好誇張，房價等同物價上漲，勞保、健保，也會吃掉您的薪資，上班族的您將會越來越難以維生。
-
-除非您公司上市上櫃，再不然是公務員，否則的話，您隨時會遇到中年失業的瓶頸。
-
-求學歷，只是為了求活路，共同努力之。
 
 # 01. 用餐調查
 
@@ -68,4 +63,6 @@ Deadline: September 16, 2020
 - https://kiki.ccu.edu.tw/~ccmisp07/cgi-bin/class_new/announce.php?announce_id=20200904&e=0
 - https://kiki.ccu.edu.tw/~ccmisp07/cgi-bin/class_new/index.php
   
-  
+  # 05. 班代要幹啥？
+
+  [班代要幹啥？](200916.md)
