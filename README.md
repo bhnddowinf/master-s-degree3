@@ -69,6 +69,10 @@ Deadline: September 16, 2020
 - https://kiki.ccu.edu.tw/~ccmisp07/cgi-bin/class_new/announce.php?announce_id=20200904&e=0
 - https://kiki.ccu.edu.tw/~ccmisp07/cgi-bin/class_new/index.php
   
-  # 05. 班代要幹啥？
+# 05. 班代要幹啥？
 
   [班代要幹啥？](200916.md)
+
+# 06. 登入線上會議軟體
+
+[登入線上會議軟體](login/01.md)
