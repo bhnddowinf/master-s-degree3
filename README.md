@@ -106,3 +106,7 @@ Deadline: September 16, 2020
 # 08. 心得
 
 [傻瓜也會寫論文](201001a/201001a.md)
+
+# 09. 畢業照
+
+[畢業照](GraduationPhoto/01.md)
