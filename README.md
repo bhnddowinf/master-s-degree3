@@ -112,3 +112,18 @@ Deadline: September 16, 2020
 # 09. 畢業照
 
 [畢業照](GraduationPhoto/01.md)
+
+# 10. 電腦網路筆記
+
+因為個人沒修這個學分，所以考試、同步不會去
+
+只是覺得盡力讀就好，沒翻到的，是因為真的很難翻，不然您試試
+
+能懂就懂，學不起就算了，都中年人了，幹嘛用生命去撞牆壁。
+
+
+- [電腦網路 ch01.pdf](PcNetwork\電腦網路 ch01.pdf)
+- [電腦網路 ch2.0.pdf](PcNetwork\電腦網路 ch2.0.pdf)
+- [電腦網路 ch2.1.pdf](PcNetwork\電腦網路 ch2.1.pdf)
+- [電腦網路 ch2.2-ch2.3.pdf](PcNetwork\電腦網路 ch2.2-ch2.3.pdf)
+- [電腦網路 ch2.4.pdf](PcNetwork\電腦網路 ch2.4.pdf)
