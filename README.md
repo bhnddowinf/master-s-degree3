@@ -131,3 +131,8 @@ Deadline: September 16, 2020
 [電腦網路 ch2.2-ch2.3.pdf](PcNetwork/電腦網路ch2.2-ch2.3.pdf)
 
 [電腦網路 ch2.4.pdf](PcNetwork/電腦網路ch2.4.pdf)
+
+
+# 11. 2020-10-09 聽熊教授講人工智慧
+
+[2020-10-09 聽熊教授講人工智慧](201009/01.md)
