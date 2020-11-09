@@ -150,3 +150,7 @@ Deadline: September 16, 2020
 - [主題:如何做數學筆記](201011/01.md)
 - [學霸會客室 第11集  IG知名讀書帳-企鵝 | 主題:如何做數學筆記 - YouTube](https://www.youtube.com/watch?v=fnZxqw0Kt8c)
 - 筆記
+
+# 13. 2020-11-09
+
+[怎麼找教授？](201109/01.md)
