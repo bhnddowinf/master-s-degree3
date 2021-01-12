@@ -125,6 +125,8 @@ Deadline: September 16, 2020
 
 [學位服，怎麼租，還有收錢](GraduationPhoto/02.md)
 
+[畢業錢已繳費，後續處理](GraduationPhoto/03.md)
+
 # 10. 電腦網路筆記
 
 因為個人沒修這個學分，所以考試、同步不會去
